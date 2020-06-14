@@ -64,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a progressive political activist in Columbus Ohio and a Public Policy / International Relations student at The Ohio State University. As a co-founder and organizer with both the Ohio State University and Central Ohio branches of Our Revolution I develop political infrastructure that enables progressive students and citizens to work towards a more sustainable future and just society.
+I'm a progressive political activist studying Public Policy and International Relations at The Ohio State University. As a co-founder and organizer with both the Ohio State University and Central Ohio branches of Our Revolution I develop strategic field infrastructure for the political revolution.
 
-In 2020 I co-founded OSU for Bernie and helped establish it as the largest political organization on campus, culminating in a town hall event with 300 attendees and 15 volunteers. I went on to work with Ohio for Bernie as a ballot access organizer and Bernie 2020 as an Iowa Caucus Precinct Captain.
+In 2020 I co-founded OSU for Bernie and helped establish it as the largest political organization on campus, hosting a town hall event with 300 attendees and 15 volunteers. I went on to work with Ohio for Bernie as a ballot access organizer and Bernie 2020 as an Iowa Caucus Precinct Captain.
