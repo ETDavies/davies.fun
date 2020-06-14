@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Evan T. Davies
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Public Policy Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The Ohio State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Believer in people and progress
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Public Policy
+- Political Campaigns
+- International Relations
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Honors BS in Public Policy Analysis and International Relations & Diplomacy
+    institution: The Ohio State University
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +38,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:evandavies128@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/EvanDaviesOH
+- icon: medium-m
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://medium.com/@evantdavies
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://linkedin.com/in/etd
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a progressive political activist in Columbus Ohio and a Public Policy / International Relations student at The Ohio State University. As a co-founder and organizer with both the Ohio State University and Central Ohio branches of Our Revolution I develop political infrastructure that enables progressive students and citizens to work towards a more sustainable future and just society.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In 2020 I co-founded OSU for Bernie and helped establish it as the largest political organization on campus, culminating in a town hall event with 300 attendees and 15 volunteers. I went on to work with Ohio for Bernie as a ballot access organizer and Bernie 2020 as an Iowa Caucus Precinct Captain.
